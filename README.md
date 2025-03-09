@@ -1,4 +1,4 @@
-![Jappa Computercraft Texturepack](https://i.imgur.com/O55yBzA.png)
+![Jappa Computercraft Texturepack](https://github.com/user-attachments/assets/3d2ff7db-c2a7-4700-b548-a03e8366568b)
 
 # cc-jummit-textures
 
